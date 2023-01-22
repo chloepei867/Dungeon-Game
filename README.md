@@ -2,9 +2,9 @@
 
 ## Intro
 
-Dungeon game, inspired by UCB CS61B Spring 2018-project 2, is a game coded in Java that can generates random dungeon maps and players can play with keyboard.
+Dungeon game, inspired by UCB CS61B Spring 2018-project 2, is a game coded in Java that can generate random dungeon maps and players can play with keyboard.
 
-Here is a demo: https://youtu.be/POXy4pmhIcM
+Here is a **demo**: https://youtu.be/POXy4pmhIcM
 
 ## Features
 
