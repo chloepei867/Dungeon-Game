@@ -8,11 +8,11 @@ Here is a **demo**: https://youtu.be/POXy4pmhIcM
 
 ## Features
 
-* Creates random dungeon maps with different random seed.
+* Created random dungeon maps with different random seed.
 * Designed and implemented HUD (player's HP, time and tile descriptions) and GUI with StdDraw for users to play the game with keyboard and displaying game information.
-* Game can be saved and loaded again.
-* Player can collect coins to increase their HP.
-* Player need to get to the door(the yellow square) before time runs out to win the game.
+* Games can be saved and loaded again.
+* Players can collect coins to increase their HP.
+* Players need to get to the door(the yellow square) before time runs out to win the game.
 
 ![1674431225236](image/README/1674431225236.png)
 
